@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+data/raw/*.csv
+data/processed/*.csv
+
+output/*
+screenshots/*
